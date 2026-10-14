@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!;I'm+Mateus+Porto!" />
 </h1>
 
-<h3 align="center">Computer Science student at Insper 🇧🇷</h3>
+<h3 align="center">Computer Science student at Insper </h3>
 
 <p align="center">
   Estudante de Ciência da Computação no Insper, com projetos entregues a Mercado Livre, Johnson & Johnson e McKinsey/QuantumBlack.<br/>
