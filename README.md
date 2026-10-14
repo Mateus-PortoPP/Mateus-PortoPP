@@ -64,7 +64,7 @@
 <!-- TODO: colocar os prints em assets/ com estes nomes, ou ajustar os caminhos -->
 <p align="center">
   <img src="fotos/rise-welcome.png" width="180" />
-  <img src="fotos/treino_dia.png" width="180" />
+  <img src="fotos/t_dia.png" width="180" />
   <img src="fotos/exec.png" width="180" />
   <img src="fotos/progresso.png" width="180" />
 </p>
