@@ -63,10 +63,10 @@
 
 <!-- TODO: colocar os prints em assets/ com estes nomes, ou ajustar os caminhos -->
 <p align="center">
-  <img src="assets/rise-welcome.png" width="180" />
-  <img src="assets/rise-onboarding.png" width="180" />
-  <img src="assets/rise-home.png" width="180" />
-  <img src="assets/rise-progress.png" width="180" />
+  <img src="fotos/rise-welcome.png" width="180" />
+  <img src="fotos/treino_dia.png" width="180" />
+  <img src="fotos/exec.png" width="180" />
+  <img src="fotos/progresso.png" width="180" />
 </p>
 
 - Desenvolvi a base do app em Expo/React Native com TypeScript: navegação, estado global e paleta da marca
