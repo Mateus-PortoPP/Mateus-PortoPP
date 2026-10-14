@@ -56,6 +56,8 @@
 - Autenticação por JWT centralizada no gateway (Spring Cloud Gateway), persistência em PostgreSQL com migrações Flyway e comunicação entre serviços via OpenFeign
 - Containerização com Docker e Docker Compose, manifests Kubernetes por serviço e pipeline CI/CD em Jenkins; serviço de câmbio em Python
 
+  #https://plataformas-micro.github.io/plataforma/
+
 ### RISE · App Mobile de Adesão a Treinos com IA
 <sub>abr. 2026 · Expo / React Native, TypeScript, Supabase, Spring Boot · Código em organização privada</sub>
 
